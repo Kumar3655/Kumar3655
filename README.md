@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Midhun Pradeep Kumar 👋
 
-<!--
-**Kumar3655/Kumar3655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Healthcare Cybersecurity Researcher** — I study the QR login attack surface (QRLJacking): how attackers hijack browser and app pairing through a scanned code, and how to defend against it.
 
-Here are some ideas to get you started:
+- 🔬 Defensive security research — I publish the defense, not the weapon
+- 🏥 Frontline clinical background (trained nurse, India) — I study the human layer: why a tired nurse clicks at 2 AM
+- 📍 Kincardine, Ontario, Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+- 📄 Research paper on QR-based login hijacking — releasing soon
+- 🛡️ Defensive tooling concepts: safe QR inspection, signed-QR verification
+
+*Defensive research only. Nothing here is attack tooling.*
